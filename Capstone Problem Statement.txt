@@ -1,0 +1,17 @@
+https://www.kaggle.com/datasets/arbazkhan971/anomaly-detection
+
+The research question you intend to answer (one sentence, if possible)
+Can we use machine learning techniques to categorize anomolies and build a model to predict future problems.
+
+Your expected data source(s) (either a link to existing data or a sentence describing where you will source the data from)
+I found this set of data on wafer manufacturing from kaggle:
+https://www.kaggle.com/datasets/arbazkhan971/anomaly-detection
+
+The techniques you expect to use in your analysis:
+Most likely use KNN to create classifications and identify anomolies.  Explore other classification models and compare performance.
+
+The expected results:
+A small number of data points should be detectable as anomolies.
+
+Why this question is important
+This hits home in my current line of work where we find defects traced to wafer issues.  I hope this exploration can provide some insights into techniques I can use to explore real data.
