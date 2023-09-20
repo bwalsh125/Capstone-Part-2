@@ -15,11 +15,11 @@ The dataset was challenging because only 8% were labeled as anomalies. K-Nearest
 
 
 'Data Exploration/data_exploration.ipynb' 
-	– Python Jupyter notebook for initial data discovery and modeling
-‘Data Exploration Part 2/data_explration2.ipynb’ 
+	â€“ Python Jupyter notebook for initial data discovery and modeling (see bwalsh125/Capstone_ML as I'm having trouble encorporating into one git module).
+â€˜Data Exploration Part 2/data_explration2.ipynbâ€™ 
 	- Python Jupyter notebook for further data discovery and modeling
-‘Capstone Initial Data’ – Starting point for this project
-‘Capstone Problem Statement’ – Decided on project material.
-‘capstone_presentation’ – Powerpoint summarizing project.
-‘README.md’ – This file.
+â€˜Capstone Initial Dataâ€™ â€“ Starting point for this project
+â€˜Capstone Problem Statementâ€™ â€“ Decided on project material.
+â€˜capstone_presentationâ€™ â€“ Powerpoint summarizing project.
+â€˜README.mdâ€™ â€“ This file.
 
